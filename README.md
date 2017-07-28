@@ -11,4 +11,5 @@
 | 江苏中铁网络科技开发有限公司        | 苏州市相城区采莲路1037-1039      | [网友被坑经历](https://tieba.baidu.com/p/5179559731) |
 | 快乐说教育科技               | 无锡市教育评估院扬名新村720号        | [查看详情](https://github.com/JoshuaYang/interview-black-list/issues/2) |
 | 教学邦                   | 慧泽路30号科教软件园22号502       | [查看详情](https://github.com/JoshuaYang/interview-black-list/issues/3) |
+| 江苏洁澄水业科技有限公司          | 金石路545号                 | [查看详情](https://github.com/JoshuaYang/interview-black-list/issues/4) |
 
