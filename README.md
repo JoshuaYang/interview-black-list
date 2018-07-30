@@ -12,4 +12,5 @@
 | 快乐说教育科技               | 无锡市教育评估院扬名新村720号        | [查看详情](https://github.com/JoshuaYang/interview-black-list/issues/2) |
 | 教学邦                   | 慧泽路30号科教软件园22号502       | [查看详情](https://github.com/JoshuaYang/interview-black-list/issues/3) |
 | 江苏洁澄水业科技有限公司          | 金石路545号                 | [查看详情](https://github.com/JoshuaYang/interview-black-list/issues/4) |
+| 无锡迎嘉信息技术有限公司          |                         | 不打电话沟通，直接就加微信聊，发现意向不和之后直接就被拉黑，没有任何说明     |
 
